@@ -27,7 +27,7 @@ const Header = () => (
             >
                 <ul>
                     <li>
-                        <Link to="/">Hlavní stránka</Link>
+                        <Link to="/">Vizualizace</Link>
                     </li>
                     <li>
                         <Link to="/help/">Jak používat</Link>

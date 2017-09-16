@@ -24,7 +24,7 @@ const HelpPage = () => (
         <img src={detailsimg} alt="detaily (drilování)" />
         <img src={searchimg} alt="hledání/výběr" />
         <Link to="/">
-            <i className="fa fa-chevron-left" /> Zpět na hlavní stránku
+            <i className="fa fa-chevron-left" /> Zpět na vizualizaci
         </Link>
     </div>
 );

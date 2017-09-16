@@ -46,7 +46,7 @@ const AboutPage = () => (
             <li><a href="https://www.linkedin.com/in/vojtěch-nitra-15814b58/" target="_blank">Vojta Nitra</a></li>
         </ul>
         <Link to="/">
-            <i className="fa fa-chevron-left" /> Zpět na hlavní stránku
+            <i className="fa fa-chevron-left" /> Zpět na vizualizaci
         </Link>
     </div>
 );
