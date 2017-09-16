@@ -14,11 +14,11 @@ Stručný slovní popis:
 Printscreen navrhovaného řešení:
 -------------
 
-[![Website screenshot](screenshot1.png "Project website")](http://nku-hackaton.s3-website-eu-west-1.amazonaws.com)
-[![Website screenshot](screenshot2.png "Project website")](http://nku-hackaton.s3-website-eu-west-1.amazonaws.com)
-[![Website screenshot](screenshot3.png "Project website")](http://nku-hackaton.s3-website-eu-west-1.amazonaws.com)
-[![Website screenshot](screenshot4.png "Project website")](http://nku-hackaton.s3-website-eu-west-1.amazonaws.com)
-[![Website screenshot](screenshot5.png "Project website")](http://nku-hackaton.s3-website-eu-west-1.amazonaws.com)
+[![Website screenshot](_screens/screenshot1.png "Project website")](http://nku-hackaton.s3-website-eu-west-1.amazonaws.com)
+[![Website screenshot](_screens/screenshot2.png "Project website")](http://nku-hackaton.s3-website-eu-west-1.amazonaws.com)
+[![Website screenshot](_screens/screenshot3.png "Project website")](http://nku-hackaton.s3-website-eu-west-1.amazonaws.com)
+[![Website screenshot](_screens/screenshot4.png "Project website")](http://nku-hackaton.s3-website-eu-west-1.amazonaws.com)
+[![Website screenshot](_screens/screenshot5.png "Project website")](http://nku-hackaton.s3-website-eu-west-1.amazonaws.com)
 
 Seznam použitých opendatových sad:
 ------------- 
