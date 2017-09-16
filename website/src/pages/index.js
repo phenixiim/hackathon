@@ -18,7 +18,7 @@ const IndexPage = () => (
                 marginBottom: 0,
                 overflowY: 'hidden'
             }}
-            src="https://app.powerbi.com/view?r=eyJrIjoiZTYzMWM3MTItMjJjNC00ZDliLTlmZGEtMDNkNTQyYmE1NzI2IiwidCI6IjQwOGNlNzM5LTVjMTctNGZkNS1iMDcwLTY5YzZiMmRjN2E4ZCIsImMiOjh9https://app.powerbi.com/view?r=eyJrIjoiMTcyZmU1YTAtNmNhYi00NTk2LWI2YzQtZTNmZTAxNjJkMzExIiwidCI6IjQwOGNlNzM5LTVjMTctNGZkNS1iMDcwLTY5YzZiMmRjN2E4ZCIsImMiOjh9"
+            src="https://app.powerbi.com/view?r=eyJrIjoiMWU2YzQzNjMtZmU5Yi00MDRmLWE3YTctZTFhNDhmY2M2YTU0IiwidCI6IjQwOGNlNzM5LTVjMTctNGZkNS1iMDcwLTY5YzZiMmRjN2E4ZCIsImMiOjh9"
         />
     </div>
 );
