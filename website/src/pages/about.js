@@ -26,12 +26,12 @@ const AboutPage = () => (
         </p>
         <h2>Použité datové sady</h2>
         <ul>
-            <li><a href="http://data.mfcr.cz/cs/dataset/centralni-registr-administrativnich-budov" target="_blank">Centrální registr administrativních budov (MF)</a></li>
-            <li><a href="https://data.cssz.cz/documentation/prehled-o-celkovem-poctu-osvc-podle-okresu" target="_blank">OSVČ (ČSSZ)</a></li>
-            <li><a href="http://vdp.cuzk.cz" target="_blank">Registr územní identifikace, adres a nemovitostí (ČUZK)</a></li>
-            <li><a href="https://www.czso.cz/csu/czso/uchazeci-o-zamestnani-dosazitelni-a-podil-nezamestnanych-osob-podle-obci_090417" target="_blank">Uchazeči o zaměstnání dosažitelní a podíl nezaměstnaných osob podle obcí (ČZSO)</a></li>
+            <li><a href="http://data.mfcr.cz/cs/dataset/centralni-registr-administrativnich-budov" target="_blank">Centrální registr administrativních budov (MF)</a> [2015]</li>
+            <li><a href="https://data.cssz.cz/documentation/prehled-o-celkovem-poctu-osvc-podle-okresu" target="_blank">OSVČ (ČSSZ)</a> [2010-2017]</li>
+            <li><a href="http://vdp.cuzk.cz" target="_blank">Registr územní identifikace, adres a nemovitostí (ČUZK)</a> [2015]</li>
+            <li><a href="https://www.czso.cz/csu/czso/uchazeci-o-zamestnani-dosazitelni-a-podil-nezamestnanych-osob-podle-obci_090417" target="_blank">Uchazeči o zaměstnání dosažitelní a podíl nezaměstnaných osob podle obcí (ČZSO)</a> [2015-2017]</li>
+            <li><a href="https://nkod.opendata.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fnkod.opendata.cz%2Fzdroj%2Fdatov%C3%A1-sada%2F240789" target="_blank">Základní výsledky Sčítání lidu, domů a bytů (ČSÚ)</a> [2011]</li>
         </ul>
-        <p><i>Pozn.: všechny datové sady jsou z období roku 2015, vyjma sčítání lidu, které proběhlo v roce 2011.</i></p>
         <h2>Autoři:</h2>
         <ul>
             <li><a href="https://www.linkedin.com/in/dalibor-jaroš-597b7189/" target="_blank">Dalibor Jaroš</a></li>
