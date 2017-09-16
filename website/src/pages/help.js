@@ -23,6 +23,7 @@ const HelpPage = () => (
         <img src={zoomouzimg} alt="zmenšení" />
         <img src={detailsimg} alt="detaily (drilování)" />
         <img src={searchimg} alt="hledání/výběr" />
+        <hr />
         <Link to="/">
             <i className="fa fa-chevron-left" /> Zpět na vizualizaci
         </Link>
