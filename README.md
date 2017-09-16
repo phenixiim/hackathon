@@ -23,20 +23,20 @@ Printscreen navrhovaného řešení:
 Seznam použitých opendatových sad:
 ------------- 
 
-- Centrální registr administrativních budov (MF ČR) [2015]
-- Přehled o celkovém počtu OSVČ (ČSSZ) [2010-2017]
-- Registr územní identifikace, adres a nemovitostí (ČÚZK) [2015]
-- Uchazeči o zaměstnání dosažitelní a podíl nezaměstnaných osob podle obcí (ČZSO) [2015-2017]
-- Základní výsledky Sčítání lidu, domů a bytů (ČSÚ) [2011]
-- Územní teploty (ČHMÚ) [2015-2017]
+- [Centrální registr administrativních budov (MF ČR)](http://data.mfcr.cz/cs/dataset/centralni-registr-administrativnich-budov) [2015]
+- [Přehled o celkovém počtu OSVČ (ČSSZ)](https://data.cssz.cz/documentation/prehled-o-celkovem-poctu-osvc-podle-okresu) [2010-2017]
+- [Registr územní identifikace, adres a nemovitostí (ČÚZK)](http://vdp.cuzk.cz) [2015]
+- [Uchazeči o zaměstnání dosažitelní a podíl nezaměstnaných osob podle obcí (ČZSO)](https://www.czso.cz/csu/czso/uchazeci-o-zamestnani-dosazitelni-a-podil-nezamestnanych-osob-podle-obci_090417) [2015-2017]
+- [Základní výsledky Sčítání lidu, domů a bytů (ČSÚ)](https://nkod.opendata.cz/datová-sada?iri=https%3A%2F%2Fnkod.opendata.cz%2Fzdroj%2Fdatová-sada%2F240789) [2011]
+- [Územní teploty (ČHMÚ)](http://portal.chmi.cz/historicka-data/pocasi/uzemni-teploty) [2015-2017]
 
 Seznam členů týmu:
 -------------
 
-- Dalibor Jaroš
-- Michal Haták
-- Martin Hlaváč
-- Vojta Nitra
+- [Dalibor Jaroš](https://www.linkedin.com/in/dalibor-jaroš-597b7189/)
+- [Michal Haták](https://www.linkedin.com/in/twista/)
+- [Martin Hlaváč](https://www.linkedin.com/in/hlavacm/)
+- [Vojta Nitra](https://www.linkedin.com/in/vojtěch-nitra-15814b58/)
 
 Číslo týmu:
 -------------
