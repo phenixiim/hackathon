@@ -21,7 +21,9 @@ const AboutPage = () => (
             <li>Martin Hlaváč</li>
             <li>Vojta Nitra</li>
         </ul>
-        <Link to="/">zpět na hlavní stránku</Link>
+        <Link to="/">
+            <i className="fa fa-chevron-left" /> Zpět na hlavní stránku
+        </Link>
     </div>
 );
 

@@ -4,6 +4,7 @@ import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
 
 import './index.css';
+import 'font-awesome/css/font-awesome.css';
 
 const Header = () => (
     <div
@@ -41,7 +42,7 @@ const Header = () => (
                         textDecoration: 'none'
                     }}
                 >
-                    NKU Hackaton
+                    <i className="fa fa-wpexplorer" /> NKU Hackaton
                 </Link>
             </h1>
         </div>

@@ -37,12 +37,17 @@ progress {
 template {
     display: none;
 }
+a:visited,
 a {
+    color: #1abc9c;
+    transition: color 0.6s ease;
+    text-decoration: none;
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
 }
 a:active,
 a:hover {
+    color: #117864;
     outline-width: 0;
 }
 abbr[title] {

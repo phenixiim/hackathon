@@ -13,7 +13,9 @@ const IndexPage = () => (
             style={{
                 width: '100%',
                 border: 0,
-                minHeight: '80vh'
+                minHeight: 'calc(100vh - 62px)',
+                marginBottom: 0,
+                overflowY: 'hidden'
             }}
             src="https://app.powerbi.com/view?r=eyJrIjoiZjc0NGVjMzAtMTQ4Zi00ZWJlLTllZDUtZGFjMjZiYzk4YjVkIiwidCI6IjQwOGNlNzM5LTVjMTctNGZkNS1iMDcwLTY5YzZiMmRjN2E4ZCIsImMiOjh9"
         />
