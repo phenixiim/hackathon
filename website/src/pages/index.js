@@ -6,14 +6,15 @@ const IndexPage = () => (
         style={{
             margin: '0 auto',
             width: '100%',
-            padding: 0
+            padding: 0,
+            backgroundColor: '#eaeaea'
         }}
     >
         <iframe
             style={{
                 width: '100%',
                 border: 0,
-                minHeight: 'calc(100vh - 62px)',
+                minHeight: 'calc(100vh - 70px)',
                 marginBottom: 0,
                 overflowY: 'hidden'
             }}

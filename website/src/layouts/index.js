@@ -35,6 +35,9 @@ const Header = () => (
                     <li>
                         <Link to="/about/">O projektu</Link>
                     </li>
+                    <li>
+                        <a href="https://github.com/phenixiim/hackathon" target="_blank"><i className="fa fa-github"></i></a>
+                    </li>
                 </ul>
             </div>
             <h1 style={{ margin: 0, display: 'inline' }}>

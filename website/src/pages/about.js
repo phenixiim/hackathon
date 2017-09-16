@@ -29,6 +29,8 @@ const AboutPage = () => (
             I přes existenci Registru územní identifikace, adres a nemovitostí (<a href="http://www.cuzk.cz/Uvod/Produkty-a-sluzby/RUIAN/RUIAN-(1).aspx" target="_blank">RÚIAN</a>), mnoho datasetů tyto data nepoužívá, nebo pouze omezeně. Dále bohužel některé datasety nejsou kompletní, případně jsou zde chybovosti, které mohou zanést odchylku do prezentovaných hodnot.
             <br />
             S využitím vhodných nástrojů a postupů může být zpracování a zobrazení dat velmi jednoduché, levné a efektivní.
+            <br />
+            Datové podklady a výstup webu je dostupný na <a href="https://github.com/phenixiim/hackathon" target="_blank"><i className="fa fa-github"></i> Githubu</a>
         </p>
         <h2>Použité datové sady</h2>
         <ul>
