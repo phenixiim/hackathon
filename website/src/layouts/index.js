@@ -30,6 +30,9 @@ const Header = () => (
                         <Link to="/">Hlavní stránka</Link>
                     </li>
                     <li>
+                        <Link to="/help/">Jak používat</Link>
+                    </li>
+                    <li>
                         <Link to="/about/">O projektu</Link>
                     </li>
                 </ul>
