@@ -45,7 +45,7 @@ const Header = () => (
                         textDecoration: 'none'
                     }}
                 >
-                    <i className="fa fa-wpexplorer" /> NKU Hackaton
+                    <i className="fa fa-wpexplorer" /> NKU Hackaton <small>2017</small>
                 </Link>
             </h1>
         </div>

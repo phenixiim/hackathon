@@ -12,16 +12,22 @@ const AboutPage = () => (
     >
         <h2>Cíl</h2>
         <p>
-            Pokus o rychlou vizualizaci dat o státních administrativních budovách a dalších souvisejících údajích s minimálními nároky na realizaci.
+            Základem je vizualizace dat o státních administrativních budovách (dataset MFČR). A dále k těmto datům relevantně přidat další datasety, které půjdou připojit (v závislosti na kvalitě dat).
         </p>
         <h2>Řešení</h2>
         <p>
-            Interkativní zobrazení dat na základě vydolování přes (My)SQL pomocí analytického nástroje:<br/>
-            <a href="https://powerbi.microsoft.com/" target="_blank">Microsoft Power BI</a>.
+            Hlavní technologií pro interaktivní zobrazení dat je <a href="https://powerbi.microsoft.com/" target="_blank">Microsoft Power BI</a>. Power BI umožňuje export
+            v podobě embed iframe. Ten je zasazen do statické prezentace (<a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>) na AWS S3.
+        </p> 
+        <p>
+            MS Power BI umožňuje použít pro zdroj dat širokou variaci zdrojů. My jsme použili MariaDB (v rámci AWS RDS), pro kterou jsme zpracovali níže zmíněné datasety.<br />
+            Pro zpracování dat z datasetů bylo použito PHP a Python (Pandas).
         </p>
         <h2>Výsledek</h2>
         <p>
-            Různé datové sady nejsou propojené a obsahují množství chyb.<br/>
+            Největším problémem dat je jejich čistota a standardizace. V rámci datových setů se kterými jsme pracovali se nám povedlo data zpracovat, vyčist a hlavně spojit.
+            I přes existenci Registru územní identifikace, adres a nemovitostí (<a href="http://www.cuzk.cz/Uvod/Produkty-a-sluzby/RUIAN/RUIAN-(1).aspx" target="_blank">RÚIAN</a>), mnoho datasetů tyto data nepoužívá, nebo pouze omezeně. Dále bohužel některé datasety nejsou kompletní, případně jsou zde chybovosti, které mohou zanést odchylku do prezentovaných hodnot.
+            <br />
             S využitím vhodných nástrojů a postupů může být zpracování a zobrazení dat velmi jednoduché, levné a efektivní.
         </p>
         <h2>Použité datové sady</h2>
