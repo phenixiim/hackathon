@@ -48,7 +48,7 @@ const Header = () => (
                         textDecoration: 'none'
                     }}
                 >
-                    <i className="fa fa-wpexplorer" /> NKU Hackaton <small>2017</small>
+                    <i className="fa fa-wpexplorer" /> CRABAPP
                 </Link>
             </h1>
         </div>
@@ -58,9 +58,9 @@ const Header = () => (
 const TemplateWrapper = ({ children }) => (
     <div>
         <Helmet
-            title="NKU Hackaton"
+            title="NKU Hackaton 2017"
             meta={[
-                { name: 'description', content: 'NKU hackaton project' },
+                { name: 'description', content: 'NKU hackaton project aka CRABAPP' },
                 { name: 'keywords', content: 'NKU hackton project #hackujstat' }
             ]}
         />
