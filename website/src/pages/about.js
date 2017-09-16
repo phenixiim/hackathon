@@ -31,7 +31,7 @@ const AboutPage = () => (
             <li><a href="http://vdp.cuzk.cz" target="_blank">Registr územní identifikace, adres a nemovitostí (ČUZK)</a></li>
             <li><a href="https://www.czso.cz/csu/czso/uchazeci-o-zamestnani-dosazitelni-a-podil-nezamestnanych-osob-podle-obci_090417" target="_blank">Uchazeči o zaměstnání dosažitelní a podíl nezaměstnaných osob podle obcí (ČZSO)</a></li>
         </ul>
-       <p><i>Pozn.: všechny datové sady jsou z období let 2011, resp. 2015</i></p>
+        <p><i>Pozn.: všechny datové sady jsou z období roku 2015, vyjma sčítání lidu, které proběhlo v roce 2011.</i></p>
         <h2>Autoři:</h2>
         <ul>
             <li><a href="https://www.linkedin.com/in/dalibor-jaroš-597b7189/" target="_blank">Dalibor Jaroš</a></li>
