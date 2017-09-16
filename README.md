@@ -21,7 +21,7 @@ Seznam použitých opendatových sad:
 
 - Centrální registr administrativních budov (MF ČR) [2015]
 - Přehled o celkovém počtu OSVČ (ČSSZ) [2010-2017]
-- Registr územní identifikace, adres a nemovitostí (ČUZK) [2015]
+- Registr územní identifikace, adres a nemovitostí (ČÚZK) [2015]
 - Uchazeči o zaměstnání dosažitelní a podíl nezaměstnaných osob podle obcí (ČZSO) [2015-2017]
 - Základní výsledky Sčítání lidu, domů a bytů (ČSÚ) [2011]
 - Územní teploty (ČHMÚ) [2015-2017]

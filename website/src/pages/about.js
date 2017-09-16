@@ -36,7 +36,7 @@ const AboutPage = () => (
         <ul>
             <li><a href="http://data.mfcr.cz/cs/dataset/centralni-registr-administrativnich-budov" target="_blank">Centrální registr administrativních budov (MF ČR)</a> [2015]</li>
             <li><a href="https://data.cssz.cz/documentation/prehled-o-celkovem-poctu-osvc-podle-okresu" target="_blank">Přehled o celkovém počtu OSVČ (ČSSZ)</a> [2010-2017]</li>
-            <li><a href="http://vdp.cuzk.cz" target="_blank">Registr územní identifikace, adres a nemovitostí (ČUZK)</a> [2015]</li>
+            <li><a href="http://vdp.cuzk.cz" target="_blank">Registr územní identifikace, adres a nemovitostí (ČÚZK)</a> [2015]</li>
             <li><a href="https://www.czso.cz/csu/czso/uchazeci-o-zamestnani-dosazitelni-a-podil-nezamestnanych-osob-podle-obci_090417" target="_blank">Uchazeči o zaměstnání dosažitelní a podíl nezaměstnaných osob podle obcí (ČZSO)</a> [2015-2017]</li>
             <li><a href="https://nkod.opendata.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fnkod.opendata.cz%2Fzdroj%2Fdatov%C3%A1-sada%2F240789" target="_blank">Základní výsledky Sčítání lidu, domů a bytů (ČSÚ)</a> [2011]</li>
             <li><a href="http://portal.chmi.cz/historicka-data/pocasi/uzemni-teploty" target="_blank">Územní teploty (ČHMÚ)</a> [2015-2017]</li>
